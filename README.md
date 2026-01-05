@@ -1,1 +1,1 @@
-auther :harsh
+author :harsh
